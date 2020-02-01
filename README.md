@@ -1,2 +1,2 @@
 # jiracharts
-This example code set demonstrates using the Python gantt and jira-python libraries to generate a simple Gantt chart of Jira epics.
+This example code set uses various charting libraries, Python with jira-python and PowerShell with JiraPS to demonstrate generating useful charts and visualizations from Jira data
