@@ -21,7 +21,7 @@ def main():
     password = os.environ['JIRA_PASSWORD']     # your password - note that for Jira Cloud you will need to use an API token
 
 #   this program is not a demonstration of error-checking, it is a demonstration of charting
-#   connect to the server    
+#   connect to the server
     options = { "server" : server }
     jira = JIRA(options, basic_auth=(username, password))
 
